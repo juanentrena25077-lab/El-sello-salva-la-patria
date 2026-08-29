@@ -1,0 +1,6 @@
+{
+  "name": "El Sello - Ministerio de Trámites Varios",
+  "description": "Juego de simulación burocrática argentina donde decidís el destino de la patria firmando o rechazando insólitos expedientes nacionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
